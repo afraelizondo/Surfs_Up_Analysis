@@ -1,6 +1,8 @@
 # Surfs up
-Weather analysis in order to study the possibility of opening a shop in Hawaii. 
+
 ## Overview of the statistical analysis
+
+The current project analyzes data of Hawaii weather in order to study the possibility of opening a shop serving surfboards and ice cream to locals an tourists in this beautiful island. This was performed with the objective of attracting investors. The tools used for displad this analytics were Jupyter Notebook File and SQLite database.  
 
 ## Results 
 
@@ -18,5 +20,7 @@ As we can see in the description of June and December weather:
 
 
 ## Summary 
-As part of the analysis that is expected, we would like to know if surf equipment and accesories are generally purchased by locals or tourirst and from there part what tipe of marketing focus will be performed. The second statistic that might result usefull will be the min expected inventory according to the demand in the city should I expect, and what are the sales or market shares targets this preparing us for the future investments.
+
+Besides the previous analysis, the team would like to know if there are some specific stores that rent or sell accesories and equipment for sea activities and perform an analysis to know what percentage of our target audience is local and how many are tourists.
+The second statistic based on this as well, will be the min and max expected inventory according to the demand in the points of the island our shops are gonna be instaled.
 
