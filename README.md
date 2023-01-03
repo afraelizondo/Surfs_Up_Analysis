@@ -2,7 +2,11 @@
 
 ## Overview of the statistical analysis
 
-The current project analyzes data of Hawaii weather in order to study the possibility of opening a shop serving surfboards and ice cream to locals and tourists in this beautiful island. This was performed with the objective of attracting investors. The tools used for display this analytics were Jupyter Notebook File and SQLite database.  
+The current project analyzes data of Hawaii weather in order to study the possibility of opening a shop serving surfboards and ice cream to locals and tourists in this beautiful island. We have to take in account the precipitation as well, due to the fact that there needs to be enough rain to keep everything green, but not so much so it can be ideal for surfing and to have an ice cream.
+
+This was performed with the main objective of attracting investors with visualizations of a full year of data. 
+
+The tools used for display this analytics were Jupyter Notebook File and SQLite database.  
 
 ## Results 
 
