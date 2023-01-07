@@ -31,5 +31,11 @@ Besides the previous one, the team would like to implement a market research to 
 
 The second statistic based on this as well, will be the minimum and maximum expected inventory according to the demand in the points of the island our shops are gonna be instaled.
 
+### Target Market 
+
+
 ### Key next steps 
+
+After sharing the visualizations with the potential investors, the next step is the act phase, in this one we will be using all the numbers and results we retrieved to start the performance of the project planning. One advantage of the queries we performed is that this can be used in the future to apply these analysis to more regions of Hawaii, in case the shareholders would like to open more shops in the short or long term, deppending upon the success of the first ones. 
+
 
