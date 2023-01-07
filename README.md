@@ -34,7 +34,7 @@ The second statistic based on this as well, will be the minimum and maximum expe
 ### Target Market 
 
 
-## Suggested articles for the shop 
+### Suggested articles for the shop 
 
 As discussed, the shops will be selling ice cream, we made a further investigation about which flavors will be convenient for them to have based on the resources of the region:
 - papaya
@@ -45,12 +45,17 @@ As discussed, the shops will be selling ice cream, we made a further investigati
 - lychee
 All of them produce rich flavors and are well known over the island because they are native resources, besides these we recommend to include more flavors, because many of the potential customers may not know all of the mentioned before.
 
-Talking about the surf items, some of the most popular are the following ones:
+Talking about the surf items, some of the most popular and basic are the following ones:
+- surf boards
+- wetsuits
+- boots
+- hood
+- mittens
 
 ### Key next steps 
 
 After sharing the visualizations with the potential investors, the next step is the act phase, in this one we will be using all the numbers and results we retrieved to start the performance of the project planning. One advantage of the queries we performed is that this can be used in the future to apply these analysis to more regions of Hawaii, in case the shareholders would like to open more shops in the short or long term, deppending upon the success of the first ones. 
 
-## Hawaii as a whole
+### Final advice
 
-Due to the location of this beautiful island, it has only two weather stations; summer and winter, but even they have winter season, they don't experience cold weather at all, that is why the locals and tourists are outside all the months of the year 
+Due to the location of this beautiful island, Hawaii as a whole has only two weather stations; summer and winter, but even they have winter season, they don't experience cold weather at all, that is why the locals and tourists are around all the months of the year. The recommendation in this case would be that this is an excellent place to this kind of startup and with a good organization and administration, a business like this will fastelly grow through the region. 
