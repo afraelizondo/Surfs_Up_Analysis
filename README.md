@@ -25,6 +25,11 @@ As we can see in the description of June and December weather:
 
 ## Summary 
 
-Besides the previous analysis, the team would like to know if there are some specific stores that rent or sell accesories and equipment for sea activities and perform an analysis to know what percentage of our target audience is local and how many are tourists.
-The second statistic based on this as well, will be the min and max expected inventory according to the demand in the points of the island our shops are gonna be instaled.
+### Suggestion of aditional analysis 
+
+Besides the previous one, the team would like to implement a market research to know if there are some specific stores that rent or sell accesories and equipment for sea activities and perform an analysis to know what percentage of our target audience is local and how many are tourists.
+
+The second statistic based on this as well, will be the minimum and maximum expected inventory according to the demand in the points of the island our shops are gonna be instaled.
+
+### Key next steps 
 
