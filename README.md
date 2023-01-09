@@ -41,6 +41,7 @@ As discussed, the shops will be selling ice cream, we made a further investigati
 - coconut
 - macadamia
 - lychee
+
 All of them produce rich flavors and are well known over the island because they are native resources, besides these we recommend to include more flavors, because many of the potential customers may not know all of the mentioned before.
 
 Talking about the surf items, some of the most popular and basic are the following ones:
